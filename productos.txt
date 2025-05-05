@@ -1,0 +1,4 @@
+Productos
+Precio
+Cantidad
+Descripcion

@@ -1,0 +1,4 @@
+carrito
+Permite realizar compras en linea de productos
+colocar 1 o mas productos y su precio
+totalizar los productos y el costo total
